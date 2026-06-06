@@ -22,22 +22,6 @@ This project uses supervised machine learning (Linear Regression) to predict per
 
 ---
 
-## 📁 Project Structure
-
-```
-income-prediction-model/
-│
-├── data/
-│   ├── canada_per_capita_income.csv   # Training data
-│   └── records.csv                    # Prediction input
-│
-├── Income_Prediction_Model.ipynb      # Main notebook
-├── requirements.txt                   # Python dependencies
-└── README.md                          # Project documentation
-```
-
----
-
 ## 🚀 How to Run
 
 1. **Clone the repository:**
@@ -75,13 +59,3 @@ The model fits a straight line through historical per capita income data and pre
 
 ---
 
-## 👤 Author
-
-**Your Name**  
-[GitHub](https://github.com/YOUR_USERNAME) • [LinkedIn](https://linkedin.com/in/YOUR_USERNAME)
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
