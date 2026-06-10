@@ -26,7 +26,7 @@ This project uses supervised machine learning (Linear Regression) to predict per
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/income-prediction-model.git
+   git clone https://github.com/ShoaibImranTech/Income_Prediction_Model
    cd income-prediction-model
    ```
 
